@@ -1,0 +1,24 @@
+Required python libraries
+-tkinter
+-mysql.connector
+-tkcalendar
+-matplotli
+-pandas
+-datetime
+-ttkbootstrap
+
+for pandas
+    -pip install pandas
+
+for tkcalendar
+    -pip install tkcalendar
+
+for matplotlib
+    -pip install matplotlib
+
+for mysql.connector
+    -pip install mysql-connector-python
+
+for bootstrap for python
+    -python -m pip install ttkbootstrap
+
